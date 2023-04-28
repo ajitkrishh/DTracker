@@ -1,0 +1,11 @@
+django
+channels
+redis
+django-celery-beat    
+django-celery-results 
+django-environ       
+channels-redis        
+celery
+ayncio
+aiohttp
+daphne
